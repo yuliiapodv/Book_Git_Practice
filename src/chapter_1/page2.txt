@@ -3,3 +3,6 @@ this is page 2
 our second file
 
 git enabled
+
+hahahhaha
+bla bla bla is added
