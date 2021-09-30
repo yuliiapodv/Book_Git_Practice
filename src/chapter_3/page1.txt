@@ -3,3 +3,8 @@ hello
 new day
 
 this page 1
+
+new text for this page, working in day 3
+
+new lines
+
